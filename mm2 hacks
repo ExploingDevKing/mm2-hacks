@@ -1,0 +1,3 @@
+while true do
+      mloadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)("Stomp")
+  end
